@@ -18,7 +18,7 @@
 
 - 💬 Ask me about *Ict Related Question*
 
-- 📫 How to reach me *Shraboneedatta1998@gmail.com*
+- 📫 How to reach me *dattashraboneebithe@gmail.com*
 
 - 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
 
