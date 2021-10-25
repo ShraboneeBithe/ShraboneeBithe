@@ -1,4 +1,3 @@
-<h3 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h3>
 <h4 align="center">" Welcome To my Profile 💐 " </h4>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h5 align="center">I am a student of computer science and  engineering,I like to learn always new things.I had already learned some language which will good for my future work.Always pray for me as if  I can be a better engineer.
